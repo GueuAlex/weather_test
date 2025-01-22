@@ -1,0 +1,4 @@
+Cette logique de generation de qr code là on va la faire nextjs.
+une fonction doit generer 305 nombre unique de façon aléatoire, ces nombre doit être composé de 15 chiffres. Et pour chacune de ces nombres un code qr doit-etre generer.
+
+Le resultat doit-etre affiche comme suite sur la page :
